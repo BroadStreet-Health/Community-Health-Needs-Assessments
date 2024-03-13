@@ -36,43 +36,7 @@ ID,Healthcare_Name,Street_Address,City,Zipcode,State,Associated_Health_System,Fu
 6931410,Barlow Respiratory Hospital,2000 Stadium Way,Los Angeles,90026-2696,CA,,Non-Profit,2020,List of Counties,Los Angeles ,N/A,N/A,"Access to Care, Including Diagnostic Testing and Well Care (Most vitally in response to the COVID 19 pandemic), Chronic Disease Conditions, Homelessness, Mental Health, Nutrition and Physical Activity","Access to Care, Including Diagnostic Testing and Well Care Chronic Disease Conditions, Homelessness, Mental Health, Nutrition and Physical Activity",https://www.barlowhospital.org/documents/content/Community_Health_Needs_Assessment_2020.pdf,N/A,N/A
 6930232,Barstow Community Hospital,820 East Mountain View Street,Barstow,92311-3004,CA,Quorum Health,For-Profit,N/A unable to find,,,,,,,,,
 6933659,Barton Memorial Hospital,2170 South Avenue,South Lake Tahoe,96150-7026,CA,,Non-Profit,2021,List of Zip Codes,N/A,"96150, 95735, 96142, 96155, 89413, 89448 , 89449, 96151, 96158",N/A,"Access to healthcare services, Cancer, Diabetes, Heart Disease & Stroke, Infant Health  & Family Planning, Injury & Violence, Mental Health, Nutrition Physical Activity & Weight, Respiratory Disease, Substance Abuse, Tobacco Use","Mental Health, Substance Abuse, Access to Health Care Services, Infant Health/Family Planning, Heart Disease/Stroke, nutrition/Physical Activity/Weight, Diabetes, Cancer, Respiratory Disease (COVID-19), Injury/Violence, Tobacco Use, Potentially Disabling Conditions",http://southlaketahoe.healthforecast.net/2021%20CHNA%20Report%20-%20Barton%20Health.pdf,https://www.bartonhealth.org/Uploads/Public/Documents/BartonImplementationStrategy2021-Signed.pdf,N/A
-6930305,Bear Valley Community Hospital,41870 Garstin Drive,Big Bear Lake,92315,CA,QHR,,2019,Combination of counties and zip codes,San Bernadino,"91701, 91730, 91761, 91784, 92256, 92278, 92301, 91708, 91737, 91762, 91786, 92267, 92280, 92304, 91709, 91739, 91763, 92242, 92277, 92284, 92305, 91710, 91759, 91764, 92252, 92285, 92307, 92308, 92313, 92317, 92324, 92309, 92310, 92311, 92333, 92338, 92344, 92350, 92358
-92365
-92373
-92378
-92391
-92397
-92405
-92411
-92314
-92318
-92325
-92335
-92339
-92345
-92352
-92359
-92368
-92374
-92382
-92392
-92399
-92407
-93562
-92315
-92321
-92327
-92336
-92341
-92346
-92354
-92363
-92371
-92376
-92385
-92394
-92401
-92408
+6930305,Bear Valley Community Hospital,41870 Garstin Drive,Big Bear Lake,92315,CA,QHR,,2019,Combination of counties and zip codes,San Bernadino,"91701, 91730, 91761, 91784, 92256, 92278, 92301, 91708, 91737, 91762, 91786, 92267, 92280, 92304, 91709, 91739, 91763, 92242, 92277, 92284, 92305, 91710, 91759, 91764, 92252, 92285, 92307, 92308, 92313, 92317, 92324, 92309, 92310, 92311, 92333, 92338, 92344, 92350, 92358, 92365, 92373, 92378, 92391, 92397, 92405, 92411, 92314, 92318, 92325, 92335, 92339, 92345, 92352, 92359, 92368, 92374, 92382, 92392, 92399, 92407, 93562, 92315, 92321, 92327, 92336, 92341, 92346, 92354, 92363, 92371, 92376, 92385, 92394, 92401, 92408
 92311
 92316
 92322
@@ -87,12 +51,7 @@ ID,Healthcare_Name,Street_Address,City,Zipcode,State,Associated_Health_System,Fu
 92386
 92395
 92404
-92410",N/A,"womens health, cancer, heart disease, accidents, alcohol use, stroke, chronic pain management, hypertension, dental, diabetes, alzheimers, liver disease, assistance to caregivers providing care for chronically ill family members, smoking/tobacco use, affordability
-accessibility
-mental health
-education/prevention
-substance abuse
-obesity/overweight","affordability, accessibility, mental health, education/prevention, substance abuse, obesity/overweight",https://bearvalleycommunityhospital.com/wp-content/uploads/2013/04/11.18.19-Bear-Valley-Community-Healthcare-District-CHNA-Report-Final.pdf,https://bearvalleycommunityhospital.com/wp-content/uploads/2013/04/11.18.19-Bear-Valley-Community-Healthcare-District-CHNA-Report-Final.pdf,N/A
+92410",N/A,"womens health, cancer, heart disease, accidents, alcohol use, stroke, chronic pain management, hypertension, dental, diabetes, alzheimers, liver disease, assistance to caregivers providing care for chronically ill family members, smoking/tobacco use, affordability, accessibility, mental health, education/prevention, substance abuse, obesity/overweight","affordability, accessibility, mental health, education/prevention, substance abuse, obesity/overweight",https://bearvalleycommunityhospital.com/wp-content/uploads/2013/04/11.18.19-Bear-Valley-Community-Healthcare-District-CHNA-Report-Final.pdf,https://bearvalleycommunityhospital.com/wp-content/uploads/2013/04/11.18.19-Bear-Valley-Community-Healthcare-District-CHNA-Report-Final.pdf,N/A
 6932010,Beverly Hospital,309 West Beverly Boulevard,Montebello,90640-4308,CA,,Non-Profit,2019,"Combination of counties, zip codes, and places",Los Angeles ,"90201, 90040, 90022, 90023, 90063, 91732, 90640, 91754, 91755, 90660, 91770, 91733, 90601, 90606","Bell Gardens, Commerce, East Los Angeles, El Monte, Montebello, Monterey Park, Pico Rivera, Rosemead, South El Monte, Whittier","Access to health care, Chronic disease (asthma, cancer, diabetes, heart disease, liver disease, kidney disease), Dental care, Economic insecurity, Mental health, Overweight and obesity, Preventive practices (vaccines and screenings), Substance use and misuse, Violence/community safety","Access to health care, Chronic disease (asthma, cancer, diabetes, heart disease, liver disease, kidney disease), Dental care, Economic insecurity, Mental health, Overweight and obesity, Preventive practices (vaccines and screenings), Substance use and misuse, Violence/community safety",https://www.beverly.org/wp-content/uploads/2019/10/Beverly-Hospital-2019-CHNA-Final-10.15.2019.pdf,https://www.beverly.org/wp-content/uploads/2019/11/Beverly-Hospital-Implementation-Strategy-2020-2022.pdf,VRamirez@beverly.org
 6932620,BHC Alhambra Hospital,4619 North Rosemead Boulevard,Rosemead,91770-1478,CA,"Universal Health Services, Inc.",For-Profit,N/A unable to find,,,,,,,,,
 6931440,California Hospital Medical Center,1401 South Grand Avenue,Los Angeles,90015-3010,CA,CommonSpirit Health,Non-Profit,2022,"Combination of counties, zip codes, and places",Los Angeles ,"90201, 90220, 90222, 90250, 90255, 90301, 90302, 90004, 90005, 90006, 90007, 90008, 90013, 90014, 90015, 90017, 90016, 90018, 90019, 90020, 90026, 90033, 90043, 90057, 90061, 90262, 90280, 90001, 90002, 90003, 90011, 90037, 90044, 90047, 90059, 90062","Bell Gardens, Compton/Crystal City, Compton, Hawthorne, Huntington Park, Inglewood, Oakwood, Los Angeles/Koreatown, Pico Heights, Dockweiler/University Park, Los Baldwin Hills/Leimert Park, Los Angeles, West Adams, Jefferson Park, Country Club Park/Mid-City, Hancock Park, Echo Park/Silverlake, Boyle Heights,  View Park/Windsor Hills, Westlake, West Compton, Lynwood, South Gate, Firestone Park, Watts, Green Meadows, Central Alameda, Exposition Park, Vermont Vista, Gramercy Park, Willowbrook, Vermont Square","Access to health care (primary care, specialty care, dental care), Birth indicators (teen births, prenatal care, low-birth weight babies), Chronic diseases (asthma, cancer, diabetes, heart disease, liver disease, stroke), COVID-19, Economic insecurity, Education, Food insecurity, Housing/homelessness, Mental health, Overweight and obesity (healthy eating and physical activity), Preventive practices (vaccines, screenings, fall prevention), Substance abuse, Violence and injury prevention","Access to health care (primary care, specialty care, dental care), Birth indicators (teen births, prenatal care, low-birth weight babies), Chronic diseases (asthma, cancer, diabetes, heart disease, liver disease, stroke), COVID-19, Economic insecurity, Education, Food insecurity, Housing/homelessness, Mental health, Overweight and obesity (healthy eating and physical activity), Preventive practices (vaccines, screenings, fall prevention), Substance abuse, Violence and injury prevention",https://www.dignityhealth.org/content/dam/dignity-health/pdfs/chna/2022-chna/california-hospital-med-center-chna-22.pdf,https://www.dignityhealth.org/content/dam/dignity-health/pdfs/implementation-strategies/2022/CaliforniaHospMedCntr-2022ImplStrat.pdf,m.l.yonekura@commonspirit.org
@@ -103,9 +62,7 @@ obesity/overweight","affordability, accessibility, mental health, education/prev
 6932900,California Pacific Medical Center-Davies Campus,Castro and Duboce Streets,San Francisco,94114,CA,Sutter Health,Non-Profit,2022,"Combination of counties, zip codes, and places",San Francisco,"94103, 94111, 94108, 94104, 94105, 94105, 94017, 94124, 94133, 94109, 94102, 94103, 94110, 94134, 94123, 94115, 94117, 94114, 94131, 94112, 94129, 94118, 94127, 94121, 94122, 94116, 94132","Treasure Island, North Beach, Chinatown, Financial District/South Beach, Mission Bay, Potrero Hill, Bayview Hunters Point, Russian Hill, Nob Hill, Tenderloin, Mission, Berman Heights, Portola, McLaren Parl, Visitacion Valley, Marina, Pacific Heights, Japantown, Western Addition, Heyes Valley, Castro/Upper Market, Noe Valley, Glen Park, Outer Misson, Excelsior, Presidio, Presidio Hieghts, Lone Mountain/USF, Haight Ashburry, Twin Peaks, West of Twin Peaks, Oceanview/Merced/Ingleside, Inner Richmond, Inner Sunset, Seacliff, Lincoln Park, Outer Richmond, Gold Gate Park, Sunset/Parkside, Lakeshore","Access to care, Behavioral health, Economic opportunity","Access to coordinated, culturally and linguistically appropriate care and services, Food security, healthy eating, and active living, Housing security and an end to homelessness, Safety from violence and trauma, Social, emotional, and behavioral health",https://www.sutterhealth.org/pdf/for-patients/chna/cpmc-2019-chna.pdf,N/A,SHCB@sutterhealth.org 
 6933040,California Pacific Medical Center-St. Luke's Campus,3555 Cesar Chavez Street,San Francisco,94110-4403,CA,Sutter Health,Non-Profit,2018,"Combination of counties, zip codes, and places",San Francisco,"94103, 94111, 94108, 94104, 94105, 94105, 94017, 94124, 94133, 94109, 94102, 94103, 94110, 94134, 94123, 94115, 94117, 94114, 94131, 94112, 94129, 94118, 94127, 94121, 94122, 94116, 94132","Treasure Island, North Beach, Chinatown, Financial District/South Beach, Mission Bay, Potrero Hill, Bayview Hunters Point, Russian Hill, Nob Hill, Tenderloin, Mission, Berman Heights, Portola, McLaren Parl, Visitacion Valley, Marina, Pacific Heights, Japantown, Western Addition, Heyes Valley, Castro/Upper Market, Noe Valley, Glen Park, Outer Misson, Excelsior, Presidio, Presidio Hieghts, Lone Mountain/USF, Haight Ashburry, Twin Peaks, West of Twin Peaks, Oceanview/Merced/Ingleside, Inner Richmond, Inner Sunset, Seacliff, Lincoln Park, Outer Richmond, Gold Gate Park, Sunset/Parkside, Lakeshore","Psychosocial health, Healthy eating, Safety and violence prevention, Access to coordinated, culturally and linguistically appropriate services across the continuum, Housing stability/homelessness, Substance abuse, Physical activity, Economic barriers to health, Racial health inequities","Access to care, Healthy eating and physical activity, Behavioral health
 ",https://www.sutterhealth.org/pdf/for-patients/chna-archive/cpmc-st.-lukes-2016-2018-implementation-strategy.pdf,N/A,SHCB@sutterhealth.org
-6930742,California Rehabilitation Institute,2070 Century Park East,Los Angeles,90067-1907,CA,Select Medical Corporation,Non-Profit,2022,"Combination of counties, zip codes, and places",Los Angeles,"90008, 90210, 90211, 90212, 90013, 90014, 90015, 90017, 90067, 90016, 90018, 90230, 90232, 90010, 90021, 90071, 90079, 90019, 90036, 90028,90038, 90043, 90301, 90302, 90303, 90305, 90011, 90062, 90056, 90304, 90001, 90002, 90003, 90044, 90047, 90059, 90037, 90089, 90007, 90046, 90048, 90069, 90025, 90035, 90064, 90024, 90006, 90057, 90004, 90005, 90020","Baldwin Hills, Central LA, Century City, Crenshaw, Culver City, Downtown LA, Fairfax/Mid-City , Hollywood , Hyde Park, Inglewood, LA/Coliseum,LA/MLK, Hobart, Ladera Heights, Lennox , South Central LA, South Los Angeles , West LA/Palms , West LA/Rancho, Westwood 
-Wilshire
-Wilshire/Koreatown
+6930742,California Rehabilitation Institute,2070 Century Park East,Los Angeles,90067-1907,CA,Select Medical Corporation,Non-Profit,2022,"Combination of counties, zip codes, and places",Los Angeles,"90008, 90210, 90211, 90212, 90013, 90014, 90015, 90017, 90067, 90016, 90018, 90230, 90232, 90010, 90021, 90071, 90079, 90019, 90036, 90028,90038, 90043, 90301, 90302, 90303, 90305, 90011, 90062, 90056, 90304, 90001, 90002, 90003, 90044, 90047, 90059, 90037, 90089, 90007, 90046, 90048, 90069, 90025, 90035, 90064, 90024, 90006, 90057, 90004, 90005, 90020","Baldwin Hills, Central LA, Century City, Crenshaw, Culver City, Downtown LA, Fairfax/Mid-City , Hollywood , Hyde Park, Inglewood, LA/Coliseum,LA/MLK, Hobart, Ladera Heights, Lennox , South Central LA, South Los Angeles , West LA/Palms , West LA/Rancho, Westwood, Wilshire/Koreatown
 
 
 ","Access to health care (i.e., primary care, specialty care, dental care), Chronic diseases (i.e., asthma, cancer, diabetes, heart disease, liver disease, stroke), Community safety, COVID-19, Economic insecurity, Environmental conditions (i.e., air and water quality, pollution), Food insecurity, Housing/homelessness, Mental health, Overweight and obesity (healthy eating and physical activity), Preventive practices (i.e., vaccines, screenings, fall prevention), Sexually transmitted infections, Substance abuse, Transportation","Housing and homelessness, mental health, access to care, economic insecurity, COVID-19",https://www.cedars-sinai.org/content/dam/cedars-sinai/community-benefits/documents/community-health-needs-assessment-2022.pdf,https://www.cedars-sinai.org/content/dam/cedars-sinai/community-benefits/documents/community-health-needs-assessment-2022.pdf,N/A
