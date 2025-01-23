@@ -2,9 +2,9 @@
 
 ## Introduction
 
-[BroadStreet](http://www.broadstreet.io) is a data and software company for social good. We believe that all people deserve access to the best information possible. At BroadStreet, we build our software for those working towards community change. We strive to ensure that data is accessible, affordable, and delightful to explore. BroadStreet has thousands of members all over the country, including students, non-profit leaders, and executives of multi-state and national organizations. We are proud of the range of our members.
+[BroadStreet](http://www.broadstreet.org) is a data and software company for social good. We believe that all people deserve access to the best information possible. At BroadStreet, we work towards community change. We strive to ensure that data is accessible, affordable, and delightful to explore. BroadStreet has thousands of members all over the country, including students, non-profit leaders, and executives of multi-state and national organizations. We are proud of our team.
  
-Building on the great progress of the COVID-19 Data Project, which aims to collect county-level coronavirus case (#) and death (#) totals, we started the Community Data Project from small action teams looking beyond COVID data. The Policy Track of the COVID-19 Data Project first created and piloted the “CHNA Track” to create a qualitative dataset outlining the contents of Community Health Needs Assessments (CHNAs).
+The Community Health Needs Assessments (CHNAs) Data Project began as a pilot in 2021 and a formal project in January 2022. Over 3 years, nearly 300 volunteers reviewed Community Health Needs Assessments published by nonprofit hospitals accross the U.S. and qualitatively coded the data for public release.
  
 CHNAs refer to state, tribal, local, or territorial health assessments that identify key health needs and funding priorities through systematic, comprehensive data collection and analysis. Under the Affordable Care Act (ACA), nonprofit health facilities are required to conduct CHNAs every 3 years so that these facilities can better address the most pressing public health needs in their area. By comparing health needs, priorities, and other contents, CHNAs can be systematically analyzed and geographically compared without regard to the specific health system or size.
  
