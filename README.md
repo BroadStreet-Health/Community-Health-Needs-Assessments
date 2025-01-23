@@ -108,15 +108,17 @@ The CHNA Track also plans to expand by addressing two new goals. The first goal 
 
 ## Suggested Citation
 
-When using data images, downloaded data, or shared document formats, please attribute BroadStreet as well as the original source, when applicable. For examples and more information, review this article which answers the question ["How do I cite BroadStreet?"](https://help.broadstreet.io/article/citations/)
+When using data images, downloaded data, or shared document formats, please attribute BroadStreet Institute as well as the original source, when applicable.
+
+BroadStreet Institute (2024). The Community Health Needs Assessement Data Project Dataset. BroadStreet Health GitHub. https://github.com/BroadStreet-Health/Community-Health-Needs-Assessments/
 
 ## Contributors
 
-Project Leaders and Data Release Team Members (listed alphabetically by last name):
+2022 Project Leaders and Data Release Team Members (listed alphabetically by last name):
 
 Ifeoluwa Adunnade; [Kimberly Barrett, MS](https://www.linkedin.com/in/1kimberlybarrett/); [Michael Cassidy, MPH](https://www.linkedin.com/in/michaeltcassidy/); Arslon Humayun; [Brenna Jarvis, MPH](https://www.linkedin.com/in/brenna-jarvis-88b4351b6/); Nicole Kinkade; [Madison Litterell](https://www.linkedin.com/in/madison-litterell-mph-a71244217/); [Tyler Lott](https://www.linkedin.com/in/tylerowenlott/); [Kelsey Peterson](https://www.linkedin.com/in/kelsey-peterson-15476a129/); [Kari Schoettler, MPH](https://www.linkedin.com/in/kari-schoettler/); [Dipali Shah](https://www.linkedin.com/in/dipali-shah-35b14214b/); [Caitlin Shaw](https://www.linkedin.com/in/caitlin-shaw-72876a62/); [Elaine Wu](https://www.linkedin.com/in/jiaxin-wu-a12142226/).
 
-A full list of the Broadstreet Institute volunteers can be found at [https://covid19dataproject.org/team-2/](https://covid19dataproject.org/team-2/)
+A full list of the current BroadStreet Institute volunteer leaders can be found at [www.broadstreet.org/about-us](https://www.broadstreet.org/about-us).
 
 ## Questions / Feedback
 Email the primary contributors at: hello@broadstreet.io
