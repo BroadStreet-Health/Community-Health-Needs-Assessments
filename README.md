@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[BroadStreet](http://www.broadstreet.org) is a data and software company for social good. We believe that all people deserve access to the best information possible. At BroadStreet, we work towards community change. We strive to ensure that data is accessible, affordable, and delightful to explore. BroadStreet has thousands of members all over the country, including students, non-profit leaders, and executives of multi-state and national organizations. We are proud of our team.
+[BroadStreet Institute](http://www.broadstreet.org) is 501(c)3 nonprofit organization created by data enthusiasts during the pandemic. We believe that all people deserve access to the best information possible. At BroadStreet, we work towards community change. We strive to ensure that data is accessible, affordable, and delightful to explore. BroadStreet has thousands of members all over the country, including students, non-profit leaders, and executives of multi-state and national organizations. We are proud of our team.
  
 The Community Health Needs Assessments (CHNAs) Data Project began as a pilot in 2021 and a formal project in January 2022. Over 3 years, nearly 300 volunteers reviewed Community Health Needs Assessments published by nonprofit hospitals accross the U.S. and qualitatively coded the data for public release.
  
